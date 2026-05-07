@@ -10,7 +10,7 @@ In this blog, we will explore how each pillar works and why they are important i
 
 ---
 
-# 1. Encapsulation — Protecting Internal Logic
+# 1. Encapsulation 
 
 Encapsulation means hiding internal data and exposing only controlled access methods.
 
@@ -55,7 +55,7 @@ Encapsulation helps by:
 
 ---
 
-# 2. Abstraction — Hiding Complexity
+# 2. Abstraction 
 
 Abstraction hides unnecessary implementation details and exposes only essential functionality.
 
@@ -93,7 +93,7 @@ This makes systems easier to maintain and extend.
 
 ---
 
-# 3. Inheritance — Reusing Existing Logic
+# 3. Inheritance 
 
 Inheritance allows one class to acquire properties and methods from another class.
 
@@ -134,7 +134,7 @@ Large systems often contain shared behaviors that inheritance can centralize eff
 
 ---
 
-# 4. Polymorphism — One Interface, Multiple Behaviors
+# 4. Polymorphism 
 
 Polymorphism allows different objects to respond differently to the same method call.
 
