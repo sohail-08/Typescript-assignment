@@ -1,6 +1,6 @@
 # How Generics Allow You to Build Reusable Components and Functions That Stay Strictly Typed
 
-TypeScript has become one of the most popular technologies for modern web development because it combines JavaScript flexibility with powerful type safety. One of its most valuable features is **Generics**.
+TypeScript has become one of the most popular technologies for modern web development because it combines JavaScript flexibility with powerful type safety. One of its most valuable features is Generics.
 
 Generics allow developers to write reusable code that remains strongly typed regardless of the data structure being used. Instead of rewriting the same logic multiple times for different data types, developers can create flexible components and functions that work everywhere while preserving compile-time safety.
 
